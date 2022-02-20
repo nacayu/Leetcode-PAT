@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12741/Desktop/PAT/1001.h
+iostream
+C:/Users/12741/Desktop/PAT/iostream
+cstdio
+C:/Users/12741/Desktop/PAT/cstdio
+string
+C:/Users/12741/Desktop/PAT/string
+
+C:/Users/12741/Desktop/PAT/main.cpp
+1001.h
+C:/Users/12741/Desktop/PAT/1001.h
+string.h
+C:/Users/12741/Desktop/PAT/string.h
+

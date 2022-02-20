@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PAT.dir/objects.a
+D:\mingw\bin\ar.exe cr CMakeFiles\PAT.dir/objects.a @CMakeFiles\PAT.dir\objects1.rsp
+D:\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PAT.dir/objects.a -Wl,--no-whole-archive  -o PAT.exe -Wl,--out-implib,libPAT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PAT.dir\linklibs.rsp
