@@ -7,6 +7,5 @@ int main(){
         scanf("%d %d", &a, &b);
         fun(a, b);
     }
-    printf("hello world");
     return 0;
 }
